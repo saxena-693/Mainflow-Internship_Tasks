@@ -5,14 +5,30 @@ Each task is organized into its own folder and includes well-structured code, do
 
 ## Task 1 – Python Programming :-
 
-| Subtask No. | Title                            |
-|-------------|----------------------------------|
-| 01          | Sum of Two Numbers               |
-| 02          | Odd or Even                      |
-| 03          | Factorial Calculation            |
-| 04          | Fibonacci Sequence               |
-| 05          | Reverse a String                 |
-| 06          | Palindrome Check                 |
-| 07          | Leap Year Check                  |
-| 08          | Armstrong Number                 |
-| 09          | Custom Multi-layer Cipher System |
+| Subtask No.   | Title                              |
+|---------------|------------------------------------|
+| 01            | Sum of Two Numbers                 |
+| 02            | Odd or Even                        |
+| 03            | Factorial Calculation              |
+| 04            | Fibonacci Sequence                 |
+| 05            | Reverse a String                   |
+| 06            | Palindrome Check                   |
+| 07            | Leap Year Check                    |
+| 08            | Armstrong Number                   |
+| Main          | Custom Multi-layer Cipher System   |
+
+
+
+## Task 2 – Python Programming
+
+| Subtask No. | Title                             |
+|-------------|-----------------------------------|
+| 09          | Prime Number                      |
+| 10          | Sum of Digits                     |
+| 11          | LCM and GCD                       |
+| 12          | List Reversal                     |
+| 13          | Sort a List                       |
+| 14          | Remove Duplicates                 |
+| 15          | String Length (without len())     |
+| 16          | Count Vowels and Consonants       |
+| Main        | **Maze Generator & Solver**       |
