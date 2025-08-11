@@ -32,3 +32,20 @@ Each task is organized into its own folder and includes well-structured code, do
 | 15          | String Length (without len())     |
 | 16          | Count Vowels and Consonants       |
 | Main        | **Maze Generator & Solver**       |
+
+
+
+## Task 3 – Python Programming
+
+| Subtask No. | Title                           |
+|-------------|---------------------------------|
+| 17          | Table of a Number               |
+| 18          | Swap Two Numbers                |
+| 19          | Check Substring                 |
+| 20          | Decimal to Binary               |
+| 21          | Matrix Addition                 |
+| 22          | Matrix Multiplication           |
+| 23          | Find Second Largest             |
+| 24          | Check Anagram                   |
+| Main        | AI-Based Tic-Tac-Toe (Minimax)  |
+
