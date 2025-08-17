@@ -49,3 +49,17 @@ Each task is organized into its own folder and includes well-structured code, do
 | 24          | Check Anagram                   |
 | Main        | AI-Based Tic-Tac-Toe (Minimax)  |
 
+
+## Task 4 – Python Programming
+
+| Subtask No. | Title                           |
+|-------------|---------------------------------|
+| 25          | Find Missing Number             |
+| 26          | Check Balanced Parentheses      |
+| 27          | Longest Word in a Sentence      |
+| 28          | Count Words in a Sentence       |
+| 29          | Check Pythagorean Triplet       |
+| 30          | Bubble Sort                     |
+| 31          | Binary Search                   |
+| 32          | Find Subarray with Given Sum    |
+| Main        | **Log Analysis System**         |
