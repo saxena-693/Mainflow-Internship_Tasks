@@ -15,7 +15,7 @@ Each task is organized into its own folder and includes well-structured code, do
 | 06            | Palindrome Check                   |
 | 07            | Leap Year Check                    |
 | 08            | Armstrong Number                   |
-| Main          | **Custom Multi-layer Cipher System**  |
+| **Main**          | **Custom Multi-layer Cipher System**  |
 
 
 
@@ -31,7 +31,7 @@ Each task is organized into its own folder and includes well-structured code, do
 | 14          | Remove Duplicates                 |
 | 15          | String Length (without len())     |
 | 16          | Count Vowels and Consonants       |
-| Main        | **Maze Generator & Solver**       |
+| **Main**        | **Maze Generator & Solver**       |
 
 
 
@@ -47,7 +47,7 @@ Each task is organized into its own folder and includes well-structured code, do
 | 22          | Matrix Multiplication           |
 | 23          | Find Second Largest             |
 | 24          | Check Anagram                   |
-| Main        | **AI-Based Tic-Tac-Toe (Minimax)**  |
+| **Main**        | **AI-Based Tic-Tac-Toe (Minimax)**  |
 
 
 ## Task 4 – Python Programming :-
@@ -62,7 +62,7 @@ Each task is organized into its own folder and includes well-structured code, do
 | 30          | Bubble Sort                     |
 | 31          | Binary Search                   |
 | 32          | Find Subarray with Given Sum    |
-| Main        | **Log Analysis System**         |
+| **Main**        | **Log Analysis System**         |
 
 
 ## Task 5 – Python Programming :-
@@ -76,4 +76,4 @@ Each task is organized into its own folder and includes well-structured code, do
 | 37          | Find K Largest Elements              |
 | 38          | Rotate Matrix                        |
 | 39          | Sudoku Validator                     |
-| Main        | **Virtual Stock Market Simulator**       |
+| **Main**        | **Virtual Stock Market Simulator**       |
