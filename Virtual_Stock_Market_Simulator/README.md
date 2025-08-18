@@ -26,21 +26,21 @@ This project simulates **realistic market dynamics** using randomness, volatilit
 
 
 ## Example console output:-
- ✤ Day 1
-TechCorp: 98.23
-AutoInc: 50.39
-PharmaLtd: 69.36
-Balance: 1000, Portfolio Value: 1000
-Bought 1 shares of PharmaLtd at 69.36
+- ✤ Day 1
+- TechCorp: 98.23
+- AutoInc: 50.39
+- PharmaLtd: 69.36
+- Balance: 1000, Portfolio Value: 1000
+- Bought 1 shares of PharmaLtd at 69.36
 
 
 ## At the end of the simulation, a chart will display stock price history:-
--X-axis -> Days
--Y-axis -> Price
--Separate line for each stock
+- X-axis -> Days
+- Y-axis -> Price
+- Separate line for each stock
 
 
 ## Restrictions:-
--No real-world stock data is used.
--Prices are simulated randomly with volatility and trend parameters.
--This is for demo purposes only, not financial advice.
+- No real-world stock data is used.
+- Prices are simulated randomly with volatility and trend parameters.
+- This is for demo purposes only, not financial advice.
