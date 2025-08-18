@@ -19,7 +19,7 @@ Each task is organized into its own folder and includes well-structured code, do
 
 
 
-## Task 2 – Python Programming
+## Task 2 – Python Programming :-
 
 | Subtask No. | Title                             |
 |-------------|-----------------------------------|
@@ -35,7 +35,7 @@ Each task is organized into its own folder and includes well-structured code, do
 
 
 
-## Task 3 – Python Programming
+## Task 3 – Python Programming :-
 
 | Subtask No. | Title                           |
 |-------------|---------------------------------|
@@ -47,10 +47,10 @@ Each task is organized into its own folder and includes well-structured code, do
 | 22          | Matrix Multiplication           |
 | 23          | Find Second Largest             |
 | 24          | Check Anagram                   |
-| Main        | AI-Based Tic-Tac-Toe (Minimax)  |
+| Main        | **AI-Based Tic-Tac-Toe (Minimax)**  |
 
 
-## Task 4 – Python Programming
+## Task 4 – Python Programming :-
 
 | Subtask No. | Title                           |
 |-------------|---------------------------------|
@@ -63,3 +63,17 @@ Each task is organized into its own folder and includes well-structured code, do
 | 31          | Binary Search                   |
 | 32          | Find Subarray with Given Sum    |
 | Main        | **Log Analysis System**         |
+
+
+## Task 5 – Python Programming :-
+
+| Subtask No. | Title                                |
+|-------------|--------------------------------------|
+| 33          | Find All Permutations of a String    |
+| 34          | N-th Fibonacci Number (Dynamic Programming) |
+| 35          | Find Duplicates in a List            |
+| 36          | Longest Increasing Subsequence (LIS) |
+| 37          | Find K Largest Elements              |
+| 38          | Rotate Matrix                        |
+| 39          | Sudoku Validator                     |
+| Main        | **Virtual Stock Market Simulator**       |
