@@ -15,7 +15,7 @@ Each task is organized into its own folder and includes well-structured code, do
 | 06            | Palindrome Check                   |
 | 07            | Leap Year Check                    |
 | 08            | Armstrong Number                   |
-| Main          | Custom Multi-layer Cipher System   |
+| Main          | **Custom Multi-layer Cipher System**  |
 
 
 
