@@ -77,3 +77,18 @@ Each task is organized into its own folder and includes well-structured code, do
 | 38          | Rotate Matrix                        |
 | 39          | Sudoku Validator                     |
 | **Main**        | **Virtual Stock Market Simulator**       |
+
+
+## Task 6 – Python Programming :-
+
+| Subtask No. | Title                                |
+|-------------|--------------------------------------|
+| 39          | Sudoku Validator                     |
+| 40          | Word Frequency in Text               |
+| 41          | Knapsack Problem (0/1)               |
+| 42          | Merge Intervals                      |
+| 43          | Find the Median of Two Sorted Arrays |
+| 44          | Maximal Rectangle in Binary Matrix   |
+| 45          | Largest Sum Contiguous Subarray (Kadane's Algorithm)  |
+| 46          | Word Ladder Problem                  |
+| **Main**    | **Command-Line RPG Game**            |
