@@ -92,3 +92,18 @@ Each task is organized into its own folder and includes well-structured code, do
 | 45          | Largest Sum Contiguous Subarray (Kadane's Algorithm)  |
 | 46          | Word Ladder Problem                  |
 | **Main**    | **Command-Line RPG Game**            |
+
+
+## Task 7 – Python Programming :-
+
+| Subtask No. | Title                                |
+|-------------|--------------------------------------|
+| 47          | Count Inversions                     |
+| 48          | Longest Palindromic Substring             |
+| 49          | Traveling Salesman Problem (TSP)             |
+| 50          | Graph Cycle Detection                      |
+| 51          | Longest Substring Without Repeating Characters |
+| 52          | Find All Valid Parentheses Combinations    |
+| 53          | Zigzag Level Order Traversal of Binary Tree  |
+| 54          | Palindrome Partitioning                  |
+| **Main**    | **Personal Budget Advisor**            |
