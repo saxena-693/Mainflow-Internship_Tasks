@@ -1,0 +1,2 @@
+income,salary,65000.0
+expense,rent,10000.0
